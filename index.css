@@ -1,0 +1,14 @@
+.box1{
+    background: linear-gradient(to right, red,orange,green);
+    height: 200px;
+    width: 200px;
+    padding: 25px;
+    box-sizing: border-box;
+    float: right ;
+}
+.box2{
+    background: radial-gradient(rgb(255, 0, 0) 25%,rgb(0, 255, 4) 35%,rgb(255, 234, 0) 64%);
+    height: 200px;
+    width: 200px;
+    clear: right;
+}
